@@ -13,6 +13,19 @@ Fire Guns: J
 Detonate Bomb: K  
 Lock-On Targets: L[Hold]  
 Fire Missiles: L[Release]  
-Focus: Left Shit
+Focus: Left Shift
 Game Pause: ESC/P
 
+## Music Credits
+
+Akash Gandhi - Lunar Levitation
+Nico Staf - Fast and Run
+Nico Staf - Indian Walk
+Andrew Langdon - Keys
+Sonitus Vir - Pageturner
+
+## Tools Used
+
+Unity
+Inkscape
+Bosca Ceoil
